@@ -64,6 +64,7 @@ react-native@0.66 버전, 한 달에 0.1씩 올라가는데 요즘 개발 속도
 - Debugging with Chrome으로 개발자 도구 사용 가능
 - Configure Bundler로 메트로 서버 포트 변경 가능
 - Show Perf Monitor로 프레임 측정 가능
+  npm uninstall -g react-devtools
 
 [Flipper](https://fbflipper.com/) 페이스북이 만든 모바일앱 디버거도 좋음(다만 연결 시 에러나는 사람 다수 발견)
 - setup doctor 문제 해결할 것
